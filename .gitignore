@@ -1,7 +1,7 @@
 # Editor
 /.idea
 /.run
-
+.env
 # dependencies
 /node_modules
 /.pnp
@@ -49,7 +49,6 @@ sandbox.tsx
 frontend/src/sandbox2.tsx
 /frontend/node_modules
 docker-compose.dev.yml
-docker-compose.yml
 /build
 frontend/build.rar
 frontend/src/todo_others
